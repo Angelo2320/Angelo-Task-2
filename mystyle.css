@@ -1,16 +1,16 @@
 body{
-    background-color: beige;
+    background-color: lightgray;
 }
 header{
     margin-top: -200px;
-    width: 1880px;
+    width: 1505px;
     border-style: solid;
-    background-color: bisque;
+    background-color: darkgoldenrod;
     text-align: center;
     position: fixed;
 }
 nav{
-    width: 1870px;
+    width: 1495px;
     position: fixed;
     padding: 5px;
     border-style: solid;
@@ -22,7 +22,7 @@ nav{
 
 article{
     background-color: burlywood;
-    height: 1000px;
+    height: 1150px;
     border-style: solid;
     margin-top: 200px;
     margin-right: 500px;
@@ -34,20 +34,20 @@ section {
     border-style: solid;
     margin-top: 30px;
     border-radius: 10px;
-    margin-left: 20px;
+    margin-left: 15px;
     margin-right: 20px;
-    font-size: x-large;
+    font-size: large;
 }
 aside{
     background-color: burlywood;
-    height: 1000px;
+    height: 1153px;
     padding-left: 15px;
     padding-right: 15px;
     border-style: solid;
-    margin-left: 1400px;
+    margin-left:  1060px;
     border-radius: 20px;
-    margin-top: -1005px;
-    font-size: xx-large;
+    margin-top: -1155px;
+    font-size: x-large;
     text-align: justify;
 }
 
